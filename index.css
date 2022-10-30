@@ -1,0 +1,43 @@
+
+.mx-auto{
+    margin: 50px ;
+   text-align: center;
+   border: 2px solid black;
+   width: 20%;
+   font-size: x-large;
+   background-color: aliceblue;    
+}
+
+body{
+    background: linear-gradient(90deg,springgreen 50%,whitesmoke 50%);
+    
+}
+body{
+    margin-top: 150px;
+}
+img{
+    width: 100px;
+    margin-top: 150px;
+    border-top-width: 50px;
+}
+.smallbox{
+    background-color: whitesmoke;
+    
+}
+.upload{
+    margin-top: 50px;
+    margin-left: 10px;
+    border: 1px solid black;
+    padding: 30px 50px 30px 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card-title{
+    margin-right: 20px;
+    margin-bottom: 1rem;
+}
+.card-title1{
+    margin-left: 18px;
+}
